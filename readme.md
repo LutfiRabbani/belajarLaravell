@@ -1,4 +1,4 @@
-Laravel adalah salah satu framework PHP terbaik yang dikembangkan oleh Taylor Otwell. Sebagai sebuah framework PHP, Laravel hadir sebagai platform web development yang bersifat open source. Yang menarik dari Laravel adalah sintaksnya yang ekspresif dan elegan yang dirancang khusus untuk memudahkan dan mempercepat proses web development.
+Laravel sendiri adalah framework PHP MVC yang dikembangkan oleh Taylor Otwell pada tahun 2011 dan sekarang telah mencapai versi 7 dan dengan slogan laravel “PHP THAT DOESN’T HURT. CODE HAPPY & ENJOY THE FRESH AIR.” Kita akan merasa bahwa pemrograman php itu menyenangkan dan mudah karna Banyak sekali fitur-fitur yang akan sangat membantu kita dalam mengkoding dengan menggunakan framework laravel ini.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
